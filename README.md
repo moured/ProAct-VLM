@@ -19,16 +19,12 @@ Ahmed Nader Ahmed<sup>1</sup> · Omar Moured<sup>2</sup> · Mughni Irfan Mohamme
 
 ## About
 
-Long-horizon robotic tasks are vulnerable to unexpected environmental changes that can render
-planned actions ineffective or unsafe. Existing VLM-based frameworks handle this reactively,
-replanning only after execution failures or post-task checks, or rely on discrete pre-action
-checks that miss changes occurring during execution.
+VLM task planners replan *after* failure. **ProAct-VLM replans before it.**
 
-**ProAct-VLM** is an adaptive, physically grounded task planning framework that integrates
-Vision-Language Models within a real-time perception–feedback loop. It continuously monitors the
-environment and replans as soon as relevant changes are detected, enabling adaptation *before*
-failure occurs. Evaluations against multiple baselines and across different VLM backbones show
-improved success rates and efficiency in dynamic, long-horizon manipulation tasks.
+- **Continuous perception feedback** — scene monitored in real time during execution, not just at discrete checkpoints.
+- **Pre-failure replanning** — plan updated as soon as a task-relevant change is detected.
+- **Physically grounded VLM planning** — unified visual–text reasoning over the live scene.
+- **Backbone-agnostic** — higher success rates and efficiency across multiple VLMs on dynamic, long-horizon manipulation.
 
 ## Citation
 
