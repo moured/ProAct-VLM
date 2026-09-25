@@ -17,6 +17,8 @@ Ahmed Nader Ahmed<sup>1</sup> · Omar Moured<sup>2</sup> · Mughni Irfan Mohamme
 
 </div>
 
+![ProAct-VLM framework](assets/framework.png)
+
 ## About
 
 VLM task planners replan *after* failure. **ProAct-VLM replans before it.**
@@ -25,6 +27,24 @@ VLM task planners replan *after* failure. **ProAct-VLM replans before it.**
 - **Pre-failure replanning** — plan updated as soon as a task-relevant change is detected.
 - **Physically grounded VLM planning** — unified visual–text reasoning over the live scene.
 - **Backbone-agnostic** — higher success rates and efficiency across multiple VLMs on dynamic, long-horizon manipulation.
+
+## vs. Prior Work
+
+Monitors *during* execution, calls the VLM *only* when something relevant changes.
+
+![Comparison with ViLA and ReplanVLM](assets/comparison.png)
+
+## Disturbance Scenarios
+
+Seven sorting scenarios covering **(a)** object added, **(b)** object removed, **(c)** goal changed.
+
+![Disturbance scenarios](assets/scenarios.png)
+
+## Results
+
+Best planning success on every backbone — GPT-4o, Gemini 2.5 Pro, Llama 4 Maverick.
+
+![Planning success](assets/results.png)
 
 ## Citation
 
