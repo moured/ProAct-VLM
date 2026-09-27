@@ -17,7 +17,7 @@ Ahmed Nader Ahmed<sup>1</sup> · Omar Moured<sup>2</sup> · Mughni Irfan Mohamme
 
 </div>
 
-![ProAct-VLM framework](assets/framework.png)
+![ProAct-VLM framework](assets/framework.webp)
 
 ## About
 
@@ -32,7 +32,7 @@ VLM task planners replan *after* failure. **ProAct-VLM replans before it.**
 
 Seven sorting scenarios covering **(a)** object added, **(b)** object removed, **(c)** goal changed.
 
-![Disturbance scenarios](assets/scenarios.png)
+![Disturbance scenarios](assets/scenarios.webp)
 
 ## Citation
 
