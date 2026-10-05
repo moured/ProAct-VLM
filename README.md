@@ -13,7 +13,7 @@ Ahmed Nader Ahmed<sup>1</sup> · Omar Moured<sup>2</sup> · Mughni Irfan Mohamme
 [![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2609.37681)
 [![arXiv](https://img.shields.io/badge/arXiv-2609.37681-b31b1b)](https://arxiv.org/abs/2609.37681)
 [![Project Page](https://img.shields.io/badge/Project-Page-lightgrey)](#)
-[![Video](https://img.shields.io/badge/Video-Coming%20Soon-lightgrey)](#)
+[![Video](https://img.shields.io/badge/Video-Demo-red)](assets/demo.mp4)
 
 </div>
 
@@ -33,6 +33,10 @@ VLM task planners replan *after* failure. **ProAct-VLM replans before it.**
 Seven sorting scenarios covering **(a)** object added, **(b)** object removed, **(c)** goal changed.
 
 ![Disturbance scenarios](assets/scenarios.webp)
+
+## Demo
+
+[![Demo video](assets/demo-thumb.webp)](assets/demo.mp4)
 
 ## Citation
 
