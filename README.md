@@ -12,7 +12,7 @@ Ahmed Nader Ahmed<sup>1</sup> · Omar Moured<sup>2</sup> · Mughni Irfan Mohamme
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2609.37681)
 [![arXiv](https://img.shields.io/badge/arXiv-2609.37681-b31b1b)](https://arxiv.org/abs/2609.37681)
-[![Project Page](https://img.shields.io/badge/Project-Page-lightgrey)](#)
+[![Poster](https://img.shields.io/badge/Poster-PDF-green)](assets/poster.pdf)
 [![Video](https://img.shields.io/badge/Video-Demo-red)](assets/demo.mp4)
 
 </div>
