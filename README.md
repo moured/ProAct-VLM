@@ -10,7 +10,6 @@ Ahmed Nader Ahmed<sup>1</sup> · Omar Moured<sup>2</sup> · Mughni Irfan Mohamme
 
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026*
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2609.37681)
 [![arXiv](https://img.shields.io/badge/arXiv-2609.37681-b31b1b)](https://arxiv.org/abs/2609.37681)
 [![Poster](https://img.shields.io/badge/Poster-PDF-green)](assets/poster.pdf)
 [![Video](https://img.shields.io/badge/Video-Demo-red)](assets/demo.mp4)
